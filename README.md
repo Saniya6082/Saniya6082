@@ -27,4 +27,4 @@
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=saniya6082&show_icons=true&locale=en" alt="saniya6082" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=saniya6082&" alt="saniya6082" /></p>
+<p><img align="center"  src="https://github-readme-streak-stats.herokuapp.com/?user=Saniya6082&theme=radical" alt="saniya6082" /></p>
